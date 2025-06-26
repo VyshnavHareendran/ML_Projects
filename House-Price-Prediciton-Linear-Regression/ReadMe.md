@@ -12,6 +12,7 @@ The project follows a professional, end-to-end machine learning workflow, includ
 
 
 Dataset
+
 The dataset used is from Kaggle:  
 [Housing Price Prediction Dataset]([https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction))
 
@@ -44,4 +45,5 @@ Project Steps
 8. Interpretation of Model Coefficients
 
 Conclusion
+
 The project demonstrates how Linear Regression can be applied for real-world price prediction tasks, along with model evaluation and interpretation.
