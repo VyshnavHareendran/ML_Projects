@@ -43,5 +43,5 @@ Project Steps
    - Actual vs Predicted Scatter Plot
 8. Interpretation of Model Coefficients
 
-   Conclusion
-   The project demonstrates how Linear Regression can be applied for real-world price prediction tasks, along with model evaluation and interpretation.
+Conclusion
+The project demonstrates how Linear Regression can be applied for real-world price prediction tasks, along with model evaluation and interpretation.
