@@ -14,7 +14,7 @@ The project follows a professional, end-to-end machine learning workflow, includ
 Dataset
 
 The dataset used is from Kaggle:  
-[Housing Price Prediction Dataset]([https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction))
+[Housing Price Prediction Dataset](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction))
 
 
 Tools & Terchniques
