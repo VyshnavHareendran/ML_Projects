@@ -6,7 +6,7 @@ We explore both **Decision Trees and Random Forests**, covering model training, 
 Dataset
 
 The dataset used is from Kaggle:  
-[Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+[Heart Disease Data Set](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
 Tools & Terchniques
 
