@@ -91,7 +91,7 @@ encoder = joblib.load("label_encoder.jb")
 def haversine(lat1,lon1,lat2,lon2):
     return geodesic((lat1,lon1),(lat2,lon2)).km
 
-st.title("Vyshnav's Fraud Detection System")
+st.title("Vyshnav's Credit-Card Fraud Detection System")
 st.markdown(
     "<h4 style='text-align: center; color: white;'>Enter the transaction details below</h4>",
     unsafe_allow_html=True
