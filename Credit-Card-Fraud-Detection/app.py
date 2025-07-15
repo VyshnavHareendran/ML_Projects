@@ -3,6 +3,7 @@ import pandas as pd
 import joblib
 import lightgbm as lgb
 from geopy.distance import geodesic
+import os
 import base64
 
 def set_bg_and_style(image_path):
