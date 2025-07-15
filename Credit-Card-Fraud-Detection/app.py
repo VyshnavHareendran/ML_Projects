@@ -6,8 +6,22 @@ from geopy.distance import geodesic
 import base64
 
 def set_bg_and_style(image_path):
+    if not os.path.exists(image_path):
+        st.warning(f"Background image not found at '{image_path}'")
+        return
     with open(image_path, "rb") as image_file:
         encoded = base64.b64encode(image_file.read()).decode()
+    st.markdown(
+        f"""
+        <style>
+        .stApp {{
+            background-image: url("data:image/jpeg;base64,{encoded}");
+            background-size: cover;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
 
     st.markdown(
         f"""
