@@ -80,7 +80,7 @@ def set_bg_and_style(image_path):
         unsafe_allow_html=True
     )
 
-set_bg_and_style("assets/background1.jpeg")
+set_bg_and_style("assets/background.jpeg")
 
 
 
